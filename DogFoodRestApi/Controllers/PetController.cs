@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace DogFoodRestApi.Controllers
 {
     [ApiController]
-    [Route("api/Pet")]
+    [Route("[controller]")]
     public class PetController
     {
         private readonly ILogger<PetController> _logger;
@@ -26,6 +26,13 @@ namespace DogFoodRestApi.Controllers
         public IEnumerable<Pet> Get()
         {
             return _petService.GetAllPets();
+        }
+
+        [HttpPost]
+        public Pet Post([FromBody] Pet pet)
+
+        {
+            return _petService.CreatePet(pet);
         }
     }
 }

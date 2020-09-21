@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using AsianDogFood.Core.AppService;
 using AsianDogFood.Core.AppService.Service;
@@ -14,6 +15,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 
 namespace DogFoodRestApi
 {
@@ -32,6 +34,17 @@ namespace DogFoodRestApi
             services.AddScoped<IPetRepository, PetRepository>();
             services.AddScoped<IPetService, PetService>();
             services.AddControllers();
+            services.AddSwaggerGen(option =>
+            {
+                option.SwaggerDoc("1", new OpenApiInfo
+                {
+                    Title = "Swagger PetFood",
+                    Description = "Swagger for Petfood",
+                    Version = "V1"
+
+                }
+                );
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +65,10 @@ namespace DogFoodRestApi
             {
                 endpoints.MapControllers();
             });
+            app.UseSwagger();
+            app.UseSwaggerUI(options =>
+                options.SwaggerEndpoint("/swagger/V1/swagger.json", "Swagger PetFood")
+                );
         }
     }
 }
