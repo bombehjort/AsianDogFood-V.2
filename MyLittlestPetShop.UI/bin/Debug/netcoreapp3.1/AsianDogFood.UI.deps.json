@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsianDogFood.UI/1.0.0": {
+        "dependencies": {
+          "AsianDogFood.Core": "1.0.0",
+          "AsianDogFood.Core.Entity": "1.0.0",
+          "AsianDogFood.Infrastructure.Data": "1.0.0"
+        },
+        "runtime": {
+          "AsianDogFood.UI.dll": {}
+        }
+      },
+      "AsianDogFood.Core/1.0.0": {
+        "dependencies": {
+          "AsianDogFood.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "AsianDogFood.Core.dll": {}
+        }
+      },
+      "AsianDogFood.Core.Entity/1.0.0": {
+        "runtime": {
+          "AsianDogFood.Core.Entity.dll": {}
+        }
+      },
+      "AsianDogFood.Infrastructure.Data/1.0.0": {
+        "dependencies": {
+          "AsianDogFood.Core": "1.0.0",
+          "AsianDogFood.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "AsianDogFood.Infrastructure.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsianDogFood.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsianDogFood.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsianDogFood.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsianDogFood.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

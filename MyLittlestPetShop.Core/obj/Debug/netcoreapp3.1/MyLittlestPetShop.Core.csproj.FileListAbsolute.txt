@@ -1,0 +1,24 @@
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.AssemblyInfoInputs.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.AssemblyInfo.cs
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.deps.json
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.pdb
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csprojAssemblyReference.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csproj.CopyComplete
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.deps.json
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csprojAssemblyReference.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.AssemblyInfoInputs.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.AssemblyInfo.cs
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.csproj.CopyComplete
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Core\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb

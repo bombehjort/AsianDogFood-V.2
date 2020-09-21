@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyLittlestPetShop.Core/1.0.0": {
+        "dependencies": {
+          "MyLittlestPetShop.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "MyLittlestPetShop.Core.dll": {}
+        }
+      },
+      "MyLittlestPetShop.Core.Entity/1.0.0": {
+        "runtime": {
+          "MyLittlestPetShop.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLittlestPetShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLittlestPetShop.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

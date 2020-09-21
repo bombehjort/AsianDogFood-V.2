@@ -1,0 +1,28 @@
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.deps.json
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.pdb
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.pdb
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csproj.CopyComplete
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.dll
+C:\Users\WøbbePC\source\repos\MyLittlestPetShop\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.deps.json
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.Entity.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\MyLittlestPetShop.Core.pdb
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.dll
+C:\Users\Martin Park Broderse\Source\Repos\AsianDogFoods\MyLittlestPetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\MyLittlestPetShop.Infrastructure.Data.pdb

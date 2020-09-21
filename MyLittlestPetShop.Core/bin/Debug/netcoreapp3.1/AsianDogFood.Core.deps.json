@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsianDogFood.Core/1.0.0": {
+        "dependencies": {
+          "AsianDogFood.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "AsianDogFood.Core.dll": {}
+        }
+      },
+      "AsianDogFood.Core.Entity/1.0.0": {
+        "runtime": {
+          "AsianDogFood.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsianDogFood.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsianDogFood.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
