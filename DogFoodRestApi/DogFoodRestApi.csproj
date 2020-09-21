@@ -4,5 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyLittlestPetShop.Core\AsianDogFood.Core.csproj" />
+    <ProjectReference Include="..\MyLittlestPetShop.Infrastructure.Data\AsianDogFood.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
 
 </Project>

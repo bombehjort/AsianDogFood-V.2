@@ -2,6 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AsianDogFood.Core.AppService;
+using AsianDogFood.Core.AppService.Service;
+using AsianDogFood.Core.DataService;
+using AsianDogFood.Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,6 +29,8 @@ namespace DogFoodRestApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IPetRepository, PetRepository>();
+            services.AddScoped<IPetService, PetService>();
             services.AddControllers();
         }
 
@@ -36,7 +42,7 @@ namespace DogFoodRestApi
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 
