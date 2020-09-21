@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
       "projectName": "AsianDogFood.Infrastructure.Data",
-      "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
+      "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\Martin Park Broderse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martin Park Broderse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,11 +71,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj"
+            "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj"
             },
-            "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj": {
-              "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj"
+            "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj": {
+              "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj"
             }
           }
         }

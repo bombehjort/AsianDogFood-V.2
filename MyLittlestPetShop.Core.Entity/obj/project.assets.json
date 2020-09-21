@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj",
       "projectName": "AsianDogFood.Core.Entity",
-      "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj",
+      "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj",
       "packagesPath": "C:\\Users\\Martin Park Broderse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\AsianDogFood-master\\MyLittlestPetShop.Core.Entity\\obj\\",
+      "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martin Park Broderse\\AppData\\Roaming\\NuGet\\NuGet.Config",
