@@ -12,6 +12,7 @@ namespace AsianDogFood.Core.AppService
         List<Pet> GetAllPets();
         void RemovePet(Pet pet);
         void UpdatePet(Pet pet, int typeToChange, string change);
+        public Pet GetPetById(int id);
 
     }
 }

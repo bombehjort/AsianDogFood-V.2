@@ -1,92 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\DogFoodRestApi\\DogFoodRestApi.csproj": {}
+    "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\SQLite\\SQLite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\DogFoodRestApi\\DogFoodRestApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\DogFoodRestApi\\DogFoodRestApi.csproj",
-        "projectName": "DogFoodRestApi",
-        "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\DogFoodRestApi\\DogFoodRestApi.csproj",
-        "packagesPath": "C:\\Users\\Martin Park Broderse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\DogFoodRestApi\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Martin Park Broderse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj": {
-                "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj"
-              },
-              "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj"
-              },
-              "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\SQLite\\SQLite.csproj": {
-                "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\SQLite\\SQLite.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.0-rc.1.20451.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[5.0.0-rc.1.20451.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[5.0.0-rc.1.20451.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -164,65 +81,6 @@
             "projectReferences": {
               "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj": {
                 "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
-        "projectName": "AsianDogFood.Infrastructure.Data",
-        "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\AsianDogFood.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\Martin Park Broderse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Infrastructure.Data\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Martin Park Broderse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj": {
-                "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core.Entity\\AsianDogFood.Core.Entity.csproj"
-              },
-              "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj": {
-                "projectPath": "C:\\Users\\Martin Park Broderse\\Desktop\\COMPUTER SCIENCE\\AsianDogFood\\MyLittlestPetShop.Core\\AsianDogFood.Core.csproj"
               }
             }
           }

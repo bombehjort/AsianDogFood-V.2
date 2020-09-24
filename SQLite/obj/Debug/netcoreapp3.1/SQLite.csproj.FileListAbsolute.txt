@@ -1,0 +1,4 @@
+C:\Users\Martin Park Broderse\Desktop\COMPUTER SCIENCE\AsianDogFood\SQLite\bin\Debug\netcoreapp3.1\SQLite.deps.json
+C:\Users\Martin Park Broderse\Desktop\COMPUTER SCIENCE\AsianDogFood\SQLite\bin\Debug\netcoreapp3.1\SQLite.dll
+C:\Users\Martin Park Broderse\Desktop\COMPUTER SCIENCE\AsianDogFood\SQLite\obj\Debug\netcoreapp3.1\SQLite.AssemblyInfoInputs.cache
+C:\Users\Martin Park Broderse\Desktop\COMPUTER SCIENCE\AsianDogFood\SQLite\obj\Debug\netcoreapp3.1\SQLite.AssemblyInfo.cs

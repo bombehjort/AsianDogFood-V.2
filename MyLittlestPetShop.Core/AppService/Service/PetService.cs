@@ -58,5 +58,9 @@ namespace AsianDogFood.Core.AppService.Service
         {
             _petRepo.UpdatePetInDB(pet, typeToChange, change);
         }
+        public Pet GetPetById(int id)
+        {
+            return _petRepo.GetPetById(id);
+        }
     }
 }

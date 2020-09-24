@@ -11,5 +11,6 @@ namespace AsianDogFood.Core.DataService
         List<Pet> ReadAllPets();
         void PetEaten(Pet pet);
         void UpdatePetInDB(Pet pet, int typeToChange, string change);
+        public Pet GetPetById(int id);
     }
 }
