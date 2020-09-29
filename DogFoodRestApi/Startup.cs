@@ -35,9 +35,9 @@ namespace DogFoodRestApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<PetAppDBContext>(
-                optionsAction: opt DbCommandBuilder  =>
+                optionsAction: opt   =>
                 {
-                    opt.UseSqlite(DbConnectionStringBuilder: "Data Source=petApp.db");
+                    opt.UseSqlite("Data Source=petApp.db");
                 }
             );
             services.AddScoped<IPetRepository, PetRepository>();

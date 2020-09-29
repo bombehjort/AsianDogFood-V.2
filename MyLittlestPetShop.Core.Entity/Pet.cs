@@ -5,18 +5,7 @@ using System.Text;
 
 namespace AsianDogFood.Core.Entity
 {
-    public enum PetType
-    {
-        GoldenRetriever,
-        Dobberman,
-        Raccoon,
-        Phinx,
-        Shiba,
-        Apple,
-        Mosquito,
-        Dog,
-        Cat
-    }
+    
     public class Pet
     {
         public int Id { get; set; }
