@@ -34,8 +34,11 @@ namespace DogFoodRestApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(Options => Options.AddPolicy("AllowEverything",
+                Builder => Builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
+
             services.AddDbContext<PetAppDBContext>(
-                optionsAction: opt   =>
+                optionsAction: opt =>
                 {
                     opt.UseSqlite("Data Source=petApp.db");
                 }
